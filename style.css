@@ -1,0 +1,39 @@
+.container-fluid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: auto;
+  height: 100vh;
+}
+
+.content {
+  width: 100%;
+  text-align: center;
+}
+
+/* h1,
+h2 {
+  animation: colorchange 5s infinite alternate;
+}
+
+@keyframes colorchange {
+  0% {
+    color: #3c3f3f;
+  }
+  20% {
+    color: rgb(59, 21, 198);
+  }
+  40% {
+    color: rgb(191, 0, 255);
+  }
+  60% {
+    color: rgb(238, 0, 255);
+  }
+  80% {
+    color: rgb(255, 0, 89);
+  }
+  100% {
+    color: rgb(255, 0, 0);
+  }
+} */
